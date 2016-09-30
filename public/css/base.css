@@ -1,0 +1,88 @@
+body 
+{
+    background: #3b5998;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 0;
+    padding-left:8%;
+    padding-right:8%;
+    margin-top:2%;
+}
+
+#content 
+{
+    background: #e9ebee;
+    padding: 3%;
+}
+
+a 
+{
+    color: #4183c4;
+    text-decoration: none;
+}
+
+a:hover 
+{
+    text-decoration: underline;
+}
+
+code {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-family: "Bitstream Vera Sans Mono", Consolas, Courier, monospace;
+    font-size: 100%;
+    margin: 0 2px;
+    padding: 0 5px;
+}
+
+h1, h2, h3, h4 
+{
+    font-weight: bold;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+h1 
+{
+    font-size: 250%;
+    text-align: center;
+}
+
+h2 
+{
+    border-bottom: 1px solid #adadad;
+    font-size: 200%;
+}
+
+h3 
+{
+    font-size: 175%;
+}
+
+h4 
+{
+    font-size: 150%;
+}
+
+p, ul 
+{
+    margin: 15px 0;
+}
+
+ul 
+{
+    padding-left: 30px;
+}
+
+input 
+{
+    padding: 1%;
+    margin-top: 2%;
+}
+
+span#write_a_comment 
+{
+    font-weight:bold;
+}
